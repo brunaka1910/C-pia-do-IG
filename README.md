@@ -14,4 +14,6 @@ O jogo foi desenvolvido utilizando as tecnologias HTML5, CSS e o site BootStrap.
 <br>
  O deploy do aplicativo foi realizado através do Vercel. Para acessá-lo, basta clicar <a href="https://copia-do-ig.vercel.app/" target="_blank"> aqui. </a>
  <br>
+ <br>
+ <br>
  <img src="Imagens/download.png">
