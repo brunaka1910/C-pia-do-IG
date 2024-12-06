@@ -14,4 +14,4 @@ O jogo foi desenvolvido utilizando as tecnologias HTML5, CSS e o site BootStrap.
 <br>
  O deploy do aplicativo foi realizado através do Vercel. Para acessá-lo, basta clicar <a href="copia-do-2ow49iyov-brunaka1910s-projects.vercel.app/" target="_blank"> aqui. </a>
  <br>
- <img src="https://copia-do-ig.vercel.app/">
+ <img src="Imagens/download.png">
